@@ -30,7 +30,11 @@
    ```bash
    git clone https://github.com/yourname/test-alteg.git
    cd alteg
-   docker compose up --build
+   docker-compose up --build  
+
+   ```shell
+   dokcer compose up --build
+
    
 ## sql запросы
 -- запрос по дням  
