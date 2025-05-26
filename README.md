@@ -25,11 +25,11 @@
 
 ## Установка и запуск
 
-1. **Клонируйте репозиторий и запустите проект:**
+1. **Клонируйте репозиторий и запустите проект:**  
    если используете bash
 
 ```bash
-git clone https://github.com/yourname/test-alteg.git
+git clone https://github.com/Aurazimb/alteg_io.git
 cd test-alteg
 docker-compose up --build
 ```
@@ -38,7 +38,7 @@ docker-compose up --build
 
   
 ```shell
-git clone https://github.com/yourname/test-alteg.git
+git clone https://github.com/Aurazimb/alteg_io.git
 cd test-alteg
 docker compose up --build
 ```
