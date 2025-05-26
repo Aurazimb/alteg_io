@@ -26,6 +26,7 @@
 ## Установка и запуск
 
 1. **Клонируйте репозиторий и запустите проект:**
+   если используете bash
 
 ```bash
 git clone https://github.com/yourname/test-alteg.git
@@ -33,6 +34,9 @@ cd test-alteg
 docker-compose up --build
 ```
 
+  если используете shell
+
+  
 ```shell
 git clone https://github.com/yourname/test-alteg.git
 cd test-alteg
