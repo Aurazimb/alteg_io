@@ -27,21 +27,18 @@
 
 1. **Клонируйте репозиторий и запустите проект:**
 
-<details>
-<summary><code>bash</code></summary>
-
 ```bash
 git clone https://github.com/yourname/test-alteg.git
 cd test-alteg
 docker-compose up --build
+```
 
-</details> <details> <summary><code>shell</code></summary>
-
+```shell
 git clone https://github.com/yourname/test-alteg.git
 cd test-alteg
 docker compose up --build
+```
 
-</details>
 
 
    
