@@ -25,15 +25,24 @@
 
 ## Установка и запуск
 
-1. **Клонируйте репозиторий:**
+1. **Клонируйте репозиторий и запустите проект:**
 
-   ```bash
-   git clone https://github.com/yourname/test-alteg.git
-   cd alteg
-   docker-compose up --build  
+<details>
+<summary><code>bash</code></summary>
 
-   ```shell
-   dokcer compose up --build
+```bash
+git clone https://github.com/yourname/test-alteg.git
+cd test-alteg
+docker-compose up --build
+
+</details> <details> <summary><code>shell</code></summary>
+
+git clone https://github.com/yourname/test-alteg.git
+cd test-alteg
+docker compose up --build
+
+</details>
+
 
    
 ## sql запросы
